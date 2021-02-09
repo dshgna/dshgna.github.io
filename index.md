@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Dulshani Gunawardhana
 ---
 
 Hi! I am Dulshani, and I like answering questions with data (and expressing myself with GIFs)
