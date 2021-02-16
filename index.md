@@ -8,6 +8,6 @@ I am a Masters student in [Applied Social Data Science](https://www.lse.ac.uk/me
 
 My broad research interests include online political discourse and the fairness of AI systems. My ongoing dissertation uses topic modelling and deep learning to explore polarisation in online social platforms by comparing Reddit's [r/ChangeMyView](https://www.reddit.com/r/changemyview/) against ideologically divided communities. 
 
-Prior to my Masters, I worked for four years in [Trust and Safety](https://about.fb.com/actions/promoting-safety-and-expression/) at Facebook: pondering the evils of the Internet by delving into operational data (while perfecting my SQL!).
+Prior to my Masters, I worked for four years in [Trust and Safety](https://about.fb.com/actions/promoting-safety-and-expression/) at Facebook: pondering the evils of the Internet and delving into operational data (while perfecting my SQL!).
 
 I am a part-time Research Assistant at the [Care Policy and Evaluation Centre at the London School of Economics](https://www.lse.ac.uk/cpec), where I apply my coursework to understand the implications of the COVID-19 pandemic on adult social care in the UK.
