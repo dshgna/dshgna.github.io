@@ -1,16 +1,8 @@
 ---
 layout: page
 ---
-<div class="row">
 
-<div class="col-lg-5">
-    Website under construction
-
-</div>
-
-<div class="col-lg-7">
-
-<strong> Hi! I am Dulshani, and I like answering questions with data (and expressing myself with GIFs!).</strong> 
+Hi! I am Dulshani, and I like answering questions with data (and expressing myself with GIFs!).
 
 I am a Masters student in [Applied Social Data Science](https://www.lse.ac.uk/methodology) at the London School of Economics and Political Science. I study how computational methods can be used to understand the political and social world. 
 
@@ -20,7 +12,4 @@ Prior to my Masters, I worked for four years in [Trust and Safety](https://about
 
 I am a part-time Research Assistant at the [Care Policy and Evaluation Centre at the London School of Economics](https://www.lse.ac.uk/cpec), where I apply my coursework to understand the implications of the COVID-19 pandemic on adult social care in the UK.
 
-</div>
 
-</div>
-</div>

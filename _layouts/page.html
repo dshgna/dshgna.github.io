@@ -3,23 +3,29 @@ layout: default
 ---
 <article>
 
-  <header>
+    <header>
     <h1>{{ page.title | escape }}</h1>
-  </header>
-
-  <section>
-    {{ content }}
-  </section>
-  <br/>
-
-<div class="card border-primary mb-8" style="max-width: 20rem;">
-  <div class="card-header">My Projects</div>
-  <div class="card-body">
-    <h4 class="card-title">Petitions in a Pandemic</h4>
-    <p class="card-text">How did the public mobilize the UK Government's e-petitioning system during the pandemic? What were their main concerns? <em class = "text-muted">Topic Modelling, Exploratory Data Analysis, Python</em></p>
-    <a href="https://nbviewer.jupyter.org/github/dshgna/Petitions-in-a-Pandemic/blob/master/Petitions%20in%20a%20Pandemic.ipynb" class="card-link">Notebook</a>
-    <a href="https://github.com/dshgna/Petitions-in-a-Pandemic" class="card-link">Github</a>
-  </div>
-</div> 
+    </header>
+  
+    <div class="row">
+        <div class="col-lg-5">
+            Website under construction
+        </div>
+        <div class="col-lg-7">   
+          <section>{{ content }}</section>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="card border-primary mb-4" style="max-width: 30rem;">
+          <div class="card-header">My Projects</div>
+          <div class="card-body">
+            <h4 class="card-title">Petitions in a Pandemic</h4>
+            <p class="card-text">How did the public mobilize the UK Government's e-petitioning system during the pandemic? What were their main concerns? <em class = "text-muted">Topic Modelling, Exploratory Data Analysis, Python</em></p>
+            <a href="https://nbviewer.jupyter.org/github/dshgna/Petitions-in-a-Pandemic/blob/master/Petitions%20in%20a%20Pandemic.ipynb" class="card-link">Notebook</a>
+            <a href="https://github.com/dshgna/Petitions-in-a-Pandemic" class="card-link">Github</a>
+          </div>
+        </div> 
+    </div>
 
 </article>
