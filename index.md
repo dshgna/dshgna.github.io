@@ -6,7 +6,7 @@ layout: page
 
 I am a Masters student in [Applied Social Data Science](https://www.lse.ac.uk/methodology) at the London School of Economics and Political Science. I study how computational methods can be used to understand the political and social world. 
 
-My broad research interests include online political discourse and the fairness of AI systems. My ongoing dissertation uses topic modelling and deep learning to explore polarisation in online social platforms by comparing Reddit's [r/ChangeMyView](https://www.reddit.com/r/changemyview/) against ideologically divided communities. 
+My broad research interests include online political discourse and the fairness of AI systems. My ongoing dissertation uses topic modelling and deep learning to explore polarisation in online communities by using Reddit's [r/ChangeMyView](https://www.reddit.com/r/changemyview/) as a baseline. 
 
 Prior to my Masters, I worked for four years in [Trust and Safety](https://about.fb.com/actions/promoting-safety-and-expression/) at Facebook: pondering the evils of the Internet and delving into operational data (while perfecting my SQL!).
 
