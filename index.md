@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<p class="text-primary"> Hi! I am Dulshani, and I like answering questions with data (and expressing myself with GIFs!).</p> 
+<strong> Hi! I am Dulshani, and I like answering questions with data (and expressing myself with GIFs!).</strong> 
 
 I am a Masters student in [Applied Social Data Science](https://www.lse.ac.uk/methodology) at the London School of Economics and Political Science. I study how computational methods can be used to understand the political and social world. 
 
